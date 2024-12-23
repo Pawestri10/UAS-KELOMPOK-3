@@ -1,4 +1,4 @@
-Kelompok 3
+KELOMPOK 3
 ## 📂 Project Pengembangan Basis Data Pada Toko Dadi Rejo
 - Dokumen 
   - 📘LAPORAN PROYEK PENGEMBANGAN TOKO DADI REJO-KELOMPOK 3.pdf
@@ -37,7 +37,7 @@ Kami berharap repository ini dapat membantu dalam memahami proyek kami secara ke
 ## 🚀 Cara Menggunakan
 1. Clone repository ini ke lokal:
    ```bash
-https://github.com/yumnaankyprita/KELOMPOK-10
+https://github.com/Pawestri10/UAS-KELOMPOK-3.git
 2. Buka file dokumen di folder Dokumen.
 3. Ikuti manual penggunaan sistem untuk informasi lebih lanjut.
 0 commit comments
